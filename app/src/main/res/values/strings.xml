@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PushkinApp</string>
+    <string name="button">Button</string>
+    <string name="txt">Click the button!</string>
+</resources>
